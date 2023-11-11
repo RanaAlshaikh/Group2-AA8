@@ -16,6 +16,7 @@ public class GroupAA8 {
      */
     public static void main(String[] args) {
         System.out.println("Rana");
+        System.out.println("walaa");
     }
     
 }
